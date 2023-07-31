@@ -1,5 +1,5 @@
 # Project Background & Methods
-Revisiting the Kaggle competition: Quora insincere Question Classification to combine Natural Language Processing Techniques and Machine Learning Algorithms to predict a question's sincerity. 
+Revisiting the Kaggle competition: [Quora insincere Question Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) to combine Natural Language Processing Techniques and Machine Learning Algorithms to predict a question's sincerity. 
 
 Quora is a user based website that grants every day individuals a forum to ask questions and share their relevant experiences and knowledge. As of 2023, Quora has over 300 million users who ask an average of 4000 questions per day. With such volume, inevitably, some posts have an inflammatory and hostile nature that negatively affect other user’s experience. We hope to address this issue with an accurate and adaptable model to identify such insincere posts. 
 
