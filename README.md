@@ -1,6 +1,6 @@
 # Project Background & Methods
 
-[Link to Project Folder on Google Drive:](https://drive.google.com/drive/folders/19na1qYVQ3gHOiFwsKuJpWUkD4De3MKlh?usp=sharing)
+[Link to Project Folder on Google Drive](https://drive.google.com/drive/folders/19na1qYVQ3gHOiFwsKuJpWUkD4De3MKlh?usp=sharing)
 
 Revisiting the Kaggle competition: [Quora insincere Question Classification](https://www.kaggle.com/c/quora-insincere-questions-classification) to combine Natural Language Processing Techniques and Machine Learning Algorithms to predict a question's sincerity. 
 
@@ -8,7 +8,7 @@ Quora is a user based website that grants every day individuals a forum to ask q
 
 In this project, we perform data exploration and various data normalization tasks to ensure that we begin with good-quality data. Next, we utilize NLP techniques and insights for further processing. After processing, we begin feature extraction using the traditional and advanced models. Finally, we train and evaluate a variety of classifiers. Throughout the project, we face many technical changes which serve as a great base for learning and problem-solving.
 
-# More About the Dataset
+# More Information About the Data
 
 Some characteristics that can signify that a question is insincere:
 
